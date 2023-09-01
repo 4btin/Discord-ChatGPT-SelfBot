@@ -18,6 +18,8 @@
  - Copy your API key, then open the `.env` file later. In the `.env` file, you'll find the entry `OpenAI=`. Paste your token to the right side of this entry.
    
  - Now, open the terminal, type `npm i` to install the necessary modules. After the modules are installed, type `node index` to run the bot.
+
+ - Usage : `4!gpt (question etc.)`
    
  - If you need any assistance, feel free to join our server and ask your questions there.
    
