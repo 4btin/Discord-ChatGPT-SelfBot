@@ -9,13 +9,13 @@
 
  - Find the `Authorization:` text and you will see your user token in the adjacent area. Copy this token.
   
- - Next, download the provided file and open the `.env` file inside it. In the `.env` file, you will find an entry `UserToken=`. Paste your token
+ - Next, download the provided file and open the `.env` file inside it. In the `.env` file, you will find an entry `UserToken=`. Paste your token to the right side of this entry.
 
- - Now, go to https://platform.openai.com/account/api-keys for the next step.
+ - Now, go to *https://platform.openai.com/account/api-keys* for the next step.
 
- - After you've logged in, click on the "create new secret key" option to generate your API key.
+ - After you've logged in, click on the `create new secret key` option to generate your API key.
 
- - Copy your API key, then open the .env file later. In the .env file, you'll find the entry "OpenAI=". Paste your token to the right side of this entry.
+ - Copy your API key, then open the `.env` file later. In the `.env` file, you'll find the entry `OpenAI=`. Paste your token to the right side of this entry.
    
  - Now, open the terminal, type `npm i` to install the necessary modules. After the modules are installed, type `node index` to run the bot.
    
