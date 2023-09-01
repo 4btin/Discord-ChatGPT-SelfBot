@@ -1,0 +1,13 @@
+{
+  "name": "4btin-user-chat-selfbot",
+  "version": "07.02.05",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "4btin",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.1",
+    "discord.js-selfbot-v13": "^2.14.10"
+  }
+}
